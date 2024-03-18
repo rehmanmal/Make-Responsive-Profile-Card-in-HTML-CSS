@@ -1,0 +1,13 @@
+<svg width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Card background -->
+  <rect x="0" y="0" width="300" height="200" fill="#f0f0f0" rx="15" ry="15"/>
+  <!-- Profile image -->
+  <circle cx="50" cy="100" r="40" fill="#ccc"/>
+  <!-- User's name -->
+  <text x="110" y="70" font-family="Arial" font-size="18" fill="#333">John Doe</text>
+  <!-- User's occupation -->
+  <text x="110" y="100" font-family="Arial" font-size="14" fill="#666">Web Developer</text>
+  <!-- Contact information -->
+  <text x="110" y="130" font-family="Arial" font-size="14" fill="#666">john.doe@example.com</text>
+  <text x="110" y="150" font-family="Arial" font-size="14" fill="#666">(123) 456-7890</text>
+</svg>
